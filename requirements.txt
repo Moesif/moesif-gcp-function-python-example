@@ -1,0 +1,3 @@
+moesif_gcp_function
+functions-framework==3.5.0
+flask==3.0.1
